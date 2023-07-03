@@ -1,0 +1,7 @@
+Ip de mi VM
+Link encap: Ethernet inet addr:10.0.2.15
+MAC de mi VM
+HWaddr 08:00:27:c5:ee"cc
+
+Es diferente a la IP publica y privada de nuestra maquina host?
+Si, porque emula ser una nidad fisica distinta
